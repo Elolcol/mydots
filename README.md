@@ -3,7 +3,7 @@
 - [bspwm](https://github.com/baskerville/bspwm) = A tiling window manager based on binary space partitioning.
 - [sxhkd](https://github.com/baskerville/sxhkd) = Simple X hotkey daemon.
 - [btop](https://github.com/aristocratos/btop) = A monitor of resources.
-- [lf](https://github.com/gokcehan/lf) = Terminal file manager.
+- [yazi](https://github.com/sxyazi/yazi) = 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zsh](https://www.zsh.org/) = Zsh is a shell designed for interactive use.
 - [lunarvim](https://www.lunarvim.org/) = An IDE layer for Neovim with sane defaults.
 - [Polybar](https://github.com/polybar/polybar) = A fast and easy to use statusbar.
