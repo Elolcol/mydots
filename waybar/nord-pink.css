@@ -1,0 +1,14 @@
+@define-color transparent transparent;
+
+@define-color text #fefefe;
+
+@define-color background #2f343f;
+@define-color foreground #ff8bed;
+
+@define-color occupied #cccccc;
+@define-color active #982586;
+@define-color alert #d08770;
+
+@define-color volume-min #a3be8c;
+@define-color volume-med #ebcb8b;
+@define-color volume-max #bf616a;
